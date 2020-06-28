@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace Aula26Interfaces
+namespace Interface
 {
     public class Carrinho : ICarrinho
     {

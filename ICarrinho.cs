@@ -1,4 +1,4 @@
-namespace Aula26Interfaces
+namespace Interface
 {
     public interface ICarrinho
     {

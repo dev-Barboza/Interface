@@ -1,7 +1,8 @@
-namespace Aula26Interfaces
+namespace Interface
 {
     public class Product
     {
+        
         
         public float Price {get;set;}
         public string Name {get;set;}

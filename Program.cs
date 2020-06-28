@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Aula26Interfaces
+namespace Interface
 {
     class Program
     {
